@@ -74,8 +74,7 @@ namespace DataStructure
                 
             }
             System.Console.WriteLine("\n inserting value "+data+" Postion "+position);
-            return head.next;
-            System.Console.WriteLine(head.next);
+            return head;
             
         }
     }
